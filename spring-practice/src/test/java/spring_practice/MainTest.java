@@ -1,4 +1,4 @@
-package fastcampus.javaoop;
+package spring_practice;
 
 import org.junit.jupiter.api.Test;
 

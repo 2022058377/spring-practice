@@ -1,6 +1,6 @@
-package fastcampus.javaoop.service;
+package spring_practice.service;
 
-import fastcampus.javaoop.logic.JavaSort;
+import spring_practice.logic.JavaSort;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;
